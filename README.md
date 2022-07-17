@@ -8,7 +8,7 @@ _Algebraic effects similar to declarative expressions in Python._
 
 </div>
 
-灵感来自于 [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)。
+灵感来自于 [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 
 ## 对照
 
@@ -77,4 +77,5 @@ main()
 通过调用栈回溯, 寻找最近声明的 `Effective` 实例, 如果没有被当前 `Effective` 代数效应捕获, 则继续回溯.
 
 ## 参考
+
 [example](./example)
